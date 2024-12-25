@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "btc_lib",
+    "miner",
+    "node",
+    "wallet",
+
+]
