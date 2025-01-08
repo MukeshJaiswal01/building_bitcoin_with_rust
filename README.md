@@ -1,4 +1,3 @@
-# building_bitcoin_with_rust
+# Building Bitcoin with Rust
 
-
-## steps to run program ...
+https://braiins.com/books/building-bitcoin-in-rust
