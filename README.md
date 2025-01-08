@@ -1,3 +1,3 @@
 # Building Bitcoin with Rust
 
-https://braiins.com/books/building-bitcoin-in-rust
+Implementation Details:- https://braiins.com/books/building-bitcoin-in-rust
