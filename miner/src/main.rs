@@ -98,7 +98,7 @@ impl Miner {
 
     async fn run(&self) -> Result<()> {
 
-
+        /// create new thread 
         self.spawn_mining_thread();
 
 
