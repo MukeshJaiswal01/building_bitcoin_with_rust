@@ -1,0 +1,2 @@
+cargo:rustc-cfg=mach_o
+cargo:rustc-cfg=pthread_thread_at_exit
