@@ -77,6 +77,8 @@ impl Miner {
 
         let (mined_block_sender, mined_block_receiver) = flume::unbounded();
 
+        println!("making changes");
+
         Ok(Self {
 
             public_key,
